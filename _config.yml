@@ -1,16 +1,5 @@
 title: <p align="center"> Shaik Imthiyaz Ahamed </p>
 logo: /assets/img/Imthiyaz.jpg
-description:
-  <p align="center">
-  <a href="https://www.linkedin.com/in/imthiyazahamedsk/">LinkedIn</a> |
-  <a href="https://github.com/imthiyazahamed01">GitHub</a>
-  
-  <br>   
-  I'm working on Data Science, Machine learning & NLP related problems.
-
-  <br>
-  </p>
-
-
+description: I'm working on Data Science, Machine learning & NLP related problems.
 
 theme: jekyll-theme-minimal
